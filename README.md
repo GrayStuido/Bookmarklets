@@ -15,8 +15,7 @@ Then Rename It To Whatever You Want
 Click it on any website to activate it
 
 -------------------------------------------------
-
-
+----------
 -------------------------------------------------
 # Information
 This is a colection of bookmarklets i have personaly found
@@ -34,8 +33,7 @@ and i will add it if you tell me what it is and if it works or not
 Made and added bookmarklets to this repository
 
 -------------------------------------------------
-
-
+----------
 -------------------------------------------------
 
 # 3D Page
