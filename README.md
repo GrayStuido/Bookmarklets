@@ -70,6 +70,9 @@ Edit Any And All Text On Any Page (Great For Gaslighting People!)
 
 Remove **ANY** and ALL Extentions Installed on Your Chromebook
 
+Website:
+- https://chrome.google.com/webstorex
+
 -------------------------------------------------
 
 # Go Gardian Anti Tab Close
