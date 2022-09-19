@@ -7,8 +7,11 @@ A Colection Of Bookmarks
 
 # Instructions
 Click on the bookmarklet you want
+
 Paste the line of code into the URL Part Of A Bookmark
+
 Then Rename It To Whatever You Want
+
 Click it on any website to activate it
 
 -------------------------------------------------
