@@ -1,6 +1,7 @@
 # Bookmarklets and things to help make school more ¨fun¨
 A Colection Of Bookmarks
-*Updated Semi Often*
+
+(*Updated Semi Often*)
 
 # 3D Page
 
