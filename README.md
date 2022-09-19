@@ -16,6 +16,28 @@ Click it on any website to activate it
 
 -------------------------------------------------
 
+
+-------------------------------------------------
+# Information
+This is a colection of bookmarklets i have personaly found
+
+More Might Be Added if i find any
+
+--
+
+if you found a bookamrklet you think i should add contact me
+and i will add it if you tell me what it is and if it works or not
+
+-------------------------------------------------
+# Updates
+
+Made and added bookmarklets to this repository
+
+-------------------------------------------------
+
+
+-------------------------------------------------
+
 # 3D Page
 
 Make Almost Any Page 3D With This Bookmarklet
