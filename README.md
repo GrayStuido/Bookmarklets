@@ -128,7 +128,7 @@ Play Snake Game In Any Tab
 -------------------------------------------------
 # Other Repository
 
-https://github.com/GrayStuido/TheHub
+- https://github.com/GrayStuido/TheHub
 
 -------------------------------------------------
 
