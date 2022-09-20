@@ -34,6 +34,18 @@ Made and added bookmarklets to this repository
 
 -------------------------------------------------
 ----------
+Proxy List:
+
+----
+**!!! Warning !!!
+When using rammer head make sure you
+
+**Paste the link of rammer head into its search bar and click
+
+**Open AB cloaked
+-----
+- https://browser.rammerhead.org/ Rammerhead
+
 -------------------------------------------------
 
 # 3D Page
