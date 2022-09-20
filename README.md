@@ -37,12 +37,13 @@ Made and added bookmarklets to this repository
 Proxy List:
 
 ----
-**!!! Warning !!!
+** !!! Warning !!!
 When using rammer head make sure you
 
-**Paste the link of rammer head into its search bar and click
+** Paste the link of rammer head into its search bar and click
 
-**Open AB cloaked
+** Open AB cloaked
+
 -----
 - https://browser.rammerhead.org/ Rammerhead
 
