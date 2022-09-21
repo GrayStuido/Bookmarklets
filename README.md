@@ -6,15 +6,15 @@ A Colection Of Bookmarks
 -------------------------------------------------
 
 # Instructions
-Click on the bookmarklet file you want
+  Click on the bookmarklet file you want
 
-Paste the line of code into the URL Part Of A Bookmark
+  Paste the line of code into the URL Part Of A Bookmark
 
-Then Rename It To Whatever You Want
+  Then Rename It To Whatever You Want
 
-Click it on any website to activate it
+  Click it on any website to activate it
 
-(Does not work on new tab and some websites)
+  (Does not work on new tab and some websites)
 
 -------------------------------------------------
 ----------
