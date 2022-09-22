@@ -30,9 +30,11 @@ if you found a bookamrklet you think i should add contact me
 and i will add it if you tell me what it is and if it works or not
 
 -------------------------------------------------
-# Updates     | Last Update: Wednesday 9/21/22 |
+# Updates     | Last Update: Thursday 9/22/22 |
 
 - Added History Flooder Bookmarklet
+
+- Bookmarklets.html Removed
 
 -------------------------------------------------
 ----------
