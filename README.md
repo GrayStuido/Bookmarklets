@@ -32,13 +32,7 @@ and i will add it if you tell me what it is and if it works or not
 -------------------------------------------------
 # Updates     | Last Update: Wednesday 9/21/22 |
 
-- Added Proxy Website
-
-- Added Matrix Tab Bookmarklet
-
-- Updated the instructions
-
-- Removed Rammerhead Warning
+- Added History Flooder Bookmarklet
 
 -------------------------------------------------
 ----------
@@ -54,6 +48,12 @@ Website:
 # Websites
 
 - [Password Protected Links](https://jstrieb.github.io/link-lock/create/)
+
+-------------------------------------------------
+# History Flooder
+
+Flood you're history
+*(Use it on the website you want to flood you're history with)*
 
 -------------------------------------------------
 
