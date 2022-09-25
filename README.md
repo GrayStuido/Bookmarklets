@@ -4,25 +4,7 @@ A Colection Of Bookmarks
 (*Updated Semi Often*)
 
 -------------------------------------------------
-# USCRW Project
 
-- Started Work On The Website
-
-**Things to do**
-
-- Add Chatroom
-
-- Add AB Cloaking
-
-- Add Games 
-
-- Make Password
-
-- Add Proxy List
-
-- Finish Website
-
--------------------------------------------------
 # Instructions
   Click on the bookmarklet file you want
 
