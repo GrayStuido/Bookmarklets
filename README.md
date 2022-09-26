@@ -54,7 +54,7 @@ Website:
 - [Password Protected Links](https://jstrieb.github.io/link-lock/create/)
 
 -------------------------------------------------
-#  Extention Remover
+##  **Extention Remover**
 
 Remove **ANY** and ALL Extentions Installed on Your Chromebook
 
