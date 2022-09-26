@@ -58,6 +58,7 @@ Website:
 
 Remove **ANY** and ALL Extentions Installed on Your Chromebook
 
+**FOR THE WEBSITE TO NOT APPEAR AS A 404 PAGE USE THE EXT REMOVER BOOKMARKLET ON THE 404 PAGE**
 Website:
 - https://chrome.google.com/webstorex
 
