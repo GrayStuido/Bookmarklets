@@ -17,7 +17,9 @@ A Colection Of Bookmarks
   (Does not work on new tab and some websites)
 
 -------------------------------------------------
-----------
+
+
+
 -------------------------------------------------
 # Information
 This is a colection of bookmarklets i have personaly found
@@ -52,11 +54,12 @@ Website:
 - [Password Protected Links](https://jstrieb.github.io/link-lock/create/)
 
 -------------------------------------------------
-# History Flooder
+#  Extention Remover
 
-Flood you're history
+Remove **ANY** and ALL Extentions Installed on Your Chromebook
 
-*(Use it on the website you want to flood you're history with)*
+Website:
+- https://chrome.google.com/webstorex
 
 -------------------------------------------------
 
@@ -96,12 +99,11 @@ Edit Any And All Text On Any Page (Great For Gaslighting People!)
 
 -------------------------------------------------
 
-#  Extention Remover
+# History Flooder
 
-Remove **ANY** and ALL Extentions Installed on Your Chromebook
+Flood you're history
 
-Website:
-- https://chrome.google.com/webstorex
+*(Use it on the website you want to flood you're history with)*
 
 -------------------------------------------------
 
