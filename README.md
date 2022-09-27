@@ -63,6 +63,31 @@ Website:
 - https://chrome.google.com/webstorex
 
 -------------------------------------------------
+# Adblock
+
+Block Iframes And Some Ads on anywebsite
+
+-------------------------------------------------
+# New Gmail Window
+
+Create a embed of a gmail window in just one click
+
+-------------------------------------------------
+# Make Iframe
+
+embed an iframe of any website at the bottom of the current website 
+
+-------------------------------------------------
+# Video Speed
+
+Set the video speed faster than normal or slower than normaal
+
+-------------------------------------------------
+# Inject Javascript
+
+inject a line of javascript code into any page!
+
+-------------------------------------------------
 
 # Matrix Tab
 
