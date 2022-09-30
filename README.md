@@ -1,7 +1,11 @@
-#This Github Page Has Been Moved And Privated
+# This Github Page Has Been Moved And Privated
+-------------------------------------------------
 
+-------------------------------------------------
 # Moved To: https://github.com/GrayStuido/Private-Bookmrklets
+-------------------------------------------------
 
+-------------------------------------------------
 # BOOKMARKLETS ARE BLOCKED
 
 The Admins at NCSD have blocked/blacklisted the Javascript: Url
