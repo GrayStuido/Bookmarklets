@@ -2,7 +2,7 @@
 -------------------------------------------------
 
 -------------------------------------------------
-# (Moved To Here)[https://github.com/GrayStuido/Private-Bookmarklets]
+# [Moved To Here](https://github.com/GrayStuido/Private-Bookmarklets)
 -------------------------------------------------
 
 -------------------------------------------------
