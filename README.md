@@ -1,3 +1,28 @@
+# BOOKMARKLETS MIGHT BE BLOCKED
+
+The Admins at NCSD are suspected to have blocked/blacklisted the Javascript: Url
+Bookmarklets might be blocked schoolwide and at this time unuseable
+
+Someone must have been a little bitch and sniched on how we turned off go gardian
+
+Another Possibility is that they found this guthub page and saw how they worked
+
+Or Someone was stupid and allowed for one of the teachers to find out that we had found out how to dissable everything
+
+This github page will be moved and privated so that we can protect any and all workarounds we still have left
+
+they are blocking most of the proxys so another way to dissable the go gardian extention might not be possible anymore
+
+
+
+
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 # Bookmarklets and things to help make school more ¨fun¨
 A Colection Of Bookmarks
 
